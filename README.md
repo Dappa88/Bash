@@ -22,8 +22,8 @@ This repository showcases my solutions to various problem statements on HackerRa
 The problem statements are available on HackerRank's website. They cover a diverse range of topics, including string manipulation, array handling, conditionals, loops, and more. Some of the challenges I have solved include:
 
 - [Problem 1](https://github.com/Dappa88/Bash/tree/main/Easy/Numbers): Solving easy hackerank
-- [Problem 2](link_to_problem2): Short description of the problem.
-- [Problem 3](link_to_problem3): Short description of the problem.
+- [Problem 2](l[ink_to_problem2](https://github.com/Dappa88/Bash/tree/main/Medium)): Solving meduim hackerank
+
 - ...
 
 ## File Structure
@@ -40,10 +40,7 @@ The repository is organized as follows:
 │   ├── solution.sh
 │   ├── test_input.txt
 │   └── test_output.txt
-├── problem3/
-│   ├── solution.sh
-│   ├── test_input.txt
-│   └── test_output.txt
+
 ├── ...
 ├── README.md
 └── .gitignore
