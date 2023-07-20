@@ -1,6 +1,6 @@
 # Bash Programming on HackerRank
 
-![HackerRank Logo](https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb7f2f.svg)
+![HackerRank Logo](https://th.bing.com/th/id/OIP.maLad8U-in0ADmTccJMVJAHaEK?w=302&h=180&c=7&r=0&o=5&pid=1.7)
 
 This repository showcases my solutions to various problem statements on HackerRank using the Bash programming language. I have taken up different challenges and demonstrated my problem-solving skills in Bash scripting. Each solution provided here has passed the test cases on HackerRank, and I have optimized them to achieve efficient and accurate results.
 
