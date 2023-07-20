@@ -34,11 +34,11 @@ The repository is organized as follows:
 /
 ├── problem1/
 │   ├── solution.sh
-│   ├── test_input.txt
+│   ├── {problem_name}.txt
 │   └── test_output.txt
 ├── problem2/
 │   ├── solution.sh
-│   ├── test_input.txt
+│   ├── {problem_name}.txt
 │   └── test_output.txt
 
 ├── ...
@@ -48,7 +48,7 @@ The repository is organized as follows:
 
 Each problem statement has its own folder containing:
 - `.sh file`: The Bash script containing my solution to the problem.
-- `test_input.txt`: Sample input provided by HackerRank for testing the solution.
+- `{problem_name}.txt`: Sample input provided by HackerRank for testing the solution.
 - `test_output.txt`: Corresponding expected output for the sample input.
 
 ## How to Use
@@ -57,17 +57,17 @@ To execute any specific solution, you need to have a Bash interpreter installed 
 
 1. Clone the repository to your local machine.
 2. Navigate to the folder of the problem you want to run the solution for.
-3. Open the `solution.sh` file to understand the script.
+3. Open the `{problem_name}.sh` file to understand the script.
 4. Run the Bash script using the following command:
 
 ```bash
-bash solution.sh
+bash {problem_name}.sh
 ```
 
 5. If the solution requires input, provide it through standard input (usually by typing manually) or by redirecting the input from the provided test input file:
 
 ```bash
-bash solution.sh < test_input.txt
+bash {problem_name}.sh < {problem_name}.txt
 ```
 
 6. The script will execute, and the output will be displayed on the terminal.
