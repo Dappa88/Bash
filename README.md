@@ -50,7 +50,7 @@ The repository is organized as follows:
 ```
 
 Each problem statement has its own folder containing:
-- `solution.sh`: The Bash script containing my solution to the problem.
+- `.sh file`: The Bash script containing my solution to the problem.
 - `test_input.txt`: Sample input provided by HackerRank for testing the solution.
 - `test_output.txt`: Corresponding expected output for the sample input.
 
